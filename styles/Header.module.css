@@ -25,13 +25,14 @@
 }
 
 .logo {
-  color: red;
-  font-size: 20px;
+  color: #230d46;
+  font-size: 40px;
   text-transform: uppercase;
+  font-family: "Pattaya", sans-serif;
 }
 
 .logo a {
-  color: red;
+  color: #230d46;
 }
 
 @media (max-width: 768px) {
